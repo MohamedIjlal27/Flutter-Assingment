@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1012137481857",
+    "project_id": "fir-auth-dee25",
+    "storage_bucket": "fir-auth-dee25.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012137481857:android:6f78492e34b72701fe9f80",
+        "android_client_info": {
+          "package_name": "com.example.test_drive"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfj31wXk3G2OZYPy7KyXqqJU7kiMuOoeI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
